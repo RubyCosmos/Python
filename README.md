@@ -1,5 +1,6 @@
 # Python
 🐍 Python Projects Repository
+
 This repository contains a collection of Python projects developed for learning, experimentation, and practical application. Projects range from beginner scripts to more advanced applications, covering various topics such as automation, data analysis, web development, and algorithms.
 
 🔧 Features:
